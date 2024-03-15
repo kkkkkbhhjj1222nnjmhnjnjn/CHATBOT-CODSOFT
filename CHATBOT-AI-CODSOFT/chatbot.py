@@ -1,4 +1,3 @@
-
 #CHATBOT-AI-CODSOFT INTERNSHIP BY JIT SARKAR 
 import datetime
 import os
