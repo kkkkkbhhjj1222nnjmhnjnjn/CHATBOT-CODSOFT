@@ -1,3 +1,5 @@
+
+#CHATBOT-AI-CODSOFT INTERNSHIP BY JIT SARKAR 
 import datetime
 import os
 import webbrowser
@@ -132,3 +134,5 @@ while True:
 
     response = rule_based_chatbot(user_input)
     print("chatbot:", response)
+
+CHATBOT-AI-CODSOFT INTERNSHIP BY JIT SARKAR 
